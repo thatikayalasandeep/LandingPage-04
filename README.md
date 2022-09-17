@@ -4,7 +4,7 @@ This `Lading Page - 04` project developed using `HTML5` and `CSS`. By this proje
 
 ## Out Put
 
-![ProjectThumnail](/assets/Thumbnail.png)
+![ProjectThumnail](/assets/thumbnail.png)
 
 
 
